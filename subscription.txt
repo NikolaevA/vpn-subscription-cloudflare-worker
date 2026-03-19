@@ -1,3 +1,4 @@
 vless://__UUID__@45.95.172.231:443?flow=xtls-rprx-vision&type=raw&security=reality&fp=chrome&sni=www.github.com&pbk=F2iMZEEl7GqJk6y5dO7yA48rvqghCjWHowTDeJ4NMU4&sid=cdedc28afc4c64f1#racknerd-fr
 vless://__UUID__@107.173.221.202:443?flow=xtls-rprx-vision&type=raw&security=reality&fp=chrome&sni=www.github.com&pbk=F2iMZEEl7GqJk6y5dO7yA48rvqghCjWHowTDeJ4NMU4&sid=cdedc28afc4c64f1#racknerd-us
 vless://__UUID__@158.160.185.228:443?flow=xtls-rprx-vision&type=raw&security=reality&fp=chrome&sni=max.ru&pbk=F2iMZEEl7GqJk6y5dO7yA48rvqghCjWHowTDeJ4NMU4&sid=cdedc28afc4c64f1#whitelist-ya-racknerd-fr
+vless://__UUID__@158.160.185.228:8443?flow=xtls-rprx-vision&type=raw&security=reality&fp=chrome&sni=max.ru&pbk=F2iMZEEl7GqJk6y5dO7yA48rvqghCjWHowTDeJ4NMU4&sid=cdedc28afc4c64f1#whitelist-ya-racknerd-us
